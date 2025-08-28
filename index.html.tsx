@@ -90,14 +90,8 @@ export default function Home() {
         {/* Hero Section */}
         <div className="text-center py-16 px-6 fade-in relative">
           <h2 className="text-4xl md:text-6xl font-bold text-white mb-6 max-w-4xl mx-auto leading-tight">
-            Obtén tu listado de{" "}
-            <span className="gradient-text">opciones</span>{" "}
-            en una simple búsqueda
+            ¿Qué plan quieres hoy?
           </h2>
-          <p className="text-lg text-cyan-200/70 max-w-2xl mx-auto mb-12">
-            No pierdas más tiempo filtrando resultados. Busca "restaurantes madrid" y obtén automáticamente los mejor valorados de Google Maps.
-            Hoteles, spas, discotecas... todo con las mejores reseñas, al instante.
-          </p>
 
           {/* Search Interface */}
           <div className="mb-8">
